@@ -218,9 +218,6 @@ async def main():
     # Liste des channels à monitorer
     channel_ids = [
         1401775181025775738,    # Serveur 1 - Channel 1
-        1420821538336411659,    # Serveur 1 - Channel 2  
-        1420821708121702411,    # Serveur 1 - Channel 3
-        1414297257238331392,    # Serveur 2 - Channel with access issues
     ]
     
     monitor_tasks = []
